@@ -55,10 +55,7 @@ The `[value]` binding in Angular is used to set the value of an element dynamica
 #### 3. Create Album Page  
 ![Create Album](/screenshots/create-album-page.png)  
 
-#### 4. Artist List with Added Album/Artist  
-![Artist List](/screenshots/artist-list.png)  
-
-#### 5. About Box  
+#### 4. About Box  
 ![About Box](/screenshots/about-box.png)  
 
 ---
